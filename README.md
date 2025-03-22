@@ -13,7 +13,7 @@ Hi! I’m **Priyanshu Bhardwaj**, a second-year **B.Tech student in Engineering 
 
 ---
 
-### 🚀 Hackathon Focus Areas  
+### 🚀 Focus Areas  
 🔹 **AI-enhanced web applications**  
 🔹 **Computational mechanics & soft robotics**  
 🔹 **Data structures and algorithms for optimization**  
@@ -34,7 +34,7 @@ Hi! I’m **Priyanshu Bhardwaj**, a second-year **B.Tech student in Engineering 
 
 ---
 
-### 🤝 Hackathon Goals  
+### 🤝 Goals  
 🚀 Excited to **collaborate, innovate, and solve real-world problems** in this hackathon!  
 💡 Looking forward to **building impactful AI & web-based solutions** with a like-minded team.  
 
