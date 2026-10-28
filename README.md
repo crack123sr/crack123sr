@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/crack123sr/crack123sr/main/priyanshu-cover.png" alt="Priyanshu Bhardwaj — Software Developer" width="100%">
+  <img src="https://github.com/crack123sr/crack123sr/blob/main/priyanshu-cover.png?raw=true" alt="Priyanshu Bhardwaj — Software Developer" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Priyanshu Bhardwaj 👋</h1>
