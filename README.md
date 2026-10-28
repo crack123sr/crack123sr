@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./priyanshu-cover.png" alt="Priyanshu Bhardwaj — Software Developer and AI/ML Enthusiast" width="100%">
+  <img src="./priyanshu-cover.png" alt="Priyanshu Bhardwaj — Software Developer" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Priyanshu Bhardwaj 👋</h1>
