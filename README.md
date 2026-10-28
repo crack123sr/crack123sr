@@ -13,8 +13,8 @@
   <a href="https://github.com/crack123sr">
     <img src="https://img.shields.io/badge/GitHub-crack123sr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/priyanshu-bhardwaj/">
-    <img src="https://img.shields.io/badge/LinkedIn-Priy anshu Bhardwaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="www.linkedin.com/in/priyanshu-bhardwaj-77508027b">
+    <img src="https://img.shields.io/badge/LinkedIn-Priyanshu Bhardwaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:pb12asofficial@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
